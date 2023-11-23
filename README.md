@@ -1,5 +1,7 @@
 # Project Overview: Analysis of Ride-Share Application Data
 
+![alt text](https://github.com/william-brooker/Funnel-Analysis/blob/[branch]/image.jpg?raw=true)
+
 ## This project centres on a meticulous analysis of data extracted from a ride-sharing application, with the primary objective of addressing five fundamental business inquiries and deriving strategic insights.
 
 ### 1.Funnel Refinement Strategy: 
